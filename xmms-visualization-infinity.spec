@@ -2,8 +2,8 @@ Summary:	Infinity visualization plugin
 Summary(pl):	Wtyczka wizualizacji infinity
 Name:		xmms-visualization-infinity
 Version:	0.2
-Release:	1
-License:	GPL
+Release:	2
+License:	GPL v2
 Group:		X11/Applications/Multimedia
 Source0:	http://julien.carme.free.fr/infinity-%{version}.tar.gz
 URL:		http://julien.carme.free.fr/infinite.html
