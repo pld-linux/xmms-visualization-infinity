@@ -13,7 +13,7 @@ Requires:	xmms
 BuildRequires:	xmms-devel >= 1.2.3
 BuildRequires:	glib-devel >= 1.2.2
 BuildRequires:	gtk+-devel >= 1.2.0
-BuildRequires:	SDL-devel >= 1.1.7
+BuildRequires:	SDL-devel >= 1.2.0
 BuildRequires:	autoconf
 BuildRequires:	automake
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
