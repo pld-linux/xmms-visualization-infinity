@@ -5,8 +5,6 @@ Version:	0.2
 Release:	1
 License:	GPL
 Group:		X11/Applications/Multimedia
-Group(de):	X11/Applikationen/Multimedia
-Group(pl):	X11/Aplikacje/Multimedia
 Source0:	http://julien.carme.free.fr/infinity-%{version}.tar.gz
 URL:		http://julien.carme.free.fr/infinite.html
 BuildRequires:	SDL-devel >= 1.2.0
