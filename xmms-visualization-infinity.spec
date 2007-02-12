@@ -1,5 +1,5 @@
 Summary:	Infinity visualization plugin
-Summary(pl):	Wtyczka wizualizacji infinity
+Summary(pl.UTF-8):   Wtyczka wizualizacji infinity
 Name:		xmms-visualization-infinity
 Version:	0.2
 Release:	4
@@ -20,7 +20,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Infinity visualization plugin.
 
-%description -l pl
+%description -l pl.UTF-8
 Wtyczka wizualizacji infinity.
 
 %prep
